@@ -4,7 +4,7 @@ A GUI-based implementation of Battleship with an AI that uses the user's past sh
 
 ## Description
 
-A GUI-based implementation of the classic 2-player board game Battleship using Pygame. The game is single player with a lightweight AI that makes intelligent guesses based on the most likely remaining spots on the board and where the user has placed their ships in the past to inform its future guesses. The AI wins within 6 moves of the computationally-hard provably optimal algorithm, but is far performant. The game has music, sound effects, and basic graphics. This was a hackathon project completed by 3 college freshmen in under 15 hours, which earned us third place out of ~70 submissions.
+A GUI-based implementation of the classic 2-player board game Battleship using Pygame. The game is single player with a lightweight AI that makes intelligent guesses based on the most likely remaining spots on the board and where the user has placed their ships in the past to inform its future guesses. The AI wins within 6 moves (on average) of the computationally-hard provably optimal algorithm, but is far performant. The game has music, sound effects, and basic graphics. This was a hackathon project completed by 3 college freshmen in under 15 hours, which earned us third place out of ~70 submissions.
 
 ## Getting Started
 
